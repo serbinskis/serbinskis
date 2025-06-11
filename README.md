@@ -4,10 +4,10 @@ Hi 👋 My name is Adrian
 A humble man,
 -------------
 
-I am Ali Diaa. I am a humble man who likes learning to program better.
+I am Adrian. I am a humble man who likes learning to program better.
 
-* 🌍  I'm based in Iraq
-* 🧠  I'm learning C
+* 🌍  I'm based in Latvia
+* 🧠  I'm learning Java/JavaScript/TypeScript
 
 <a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/serbinskis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
