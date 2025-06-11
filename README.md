@@ -68,7 +68,7 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 | [Beans Game](https://github.com/serbinskis/beans-game-cpp)                          | A simple C++ game prototype                                                                 |
 | [nzip Java](https://github.com/serbinskis/nzip-java)                                | Java-based file compression utility that supports both GUI and command-line interfaces.     |
 | [Bad Apple Golang](https://github.com/serbinskis/bad-apple-golang)                  | Terminal-based "Bad Apple" animation in Go (~2 GB RAM usage).                               |
-| [Assembly](https://github.com/serbinskis/assembly)                                  | Low-level experiments in Assembly — playing with hardware-level programming.                |
+| [Assembly](https://github.com/serbinskis/assembly)                                  | Low-level experiments in Assembly - playing with hardware-level programming.                |
 
 ---
 
@@ -86,4 +86,4 @@ Open to feedback, ideas, and interesting coding challenges! Feel free to open an
 
 ---
 
-*Thanks for stopping by—hope this gives a clearer picture of what I’m building!*
+*Thanks for stopping by-hope this gives a clearer picture of what I’m building!*
