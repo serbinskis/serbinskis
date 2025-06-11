@@ -3,7 +3,7 @@
 **A humble man passionate about learning and building software.**
 
 - 🌍 Based in Latvia  
-- 🧠 Currently diving deep into **Java**, **JavaScript**, and **TypeScript**  
+- 🧠 Currently diving into **Java**, **JavaScript**, and **TypeScript**  
 - 💡 Experimenting with systems-level programming in **Assembly**, **Go**, **Pascal**, and scripting  
 
 <a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/serbinskis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
