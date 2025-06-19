@@ -48,11 +48,13 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serbinskis&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=0891b2)](https://github.com/serbinskis)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=serbinskis&theme=dark&hide_border=true)](https://github.com/serbinskis)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serbinskis&theme=dark&show_icons=true&hide_border=true&layout=compact&title_color=0891b2)](https://github.com/serbinskis)
+<br/>
+<a href="https://github.com/ionuttbara/github-readme-stats"><img alt="Serbinskis Github Stats" src="https://github-readme-stats.vercel.app/api?username=serbinskis&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/ionuttbara/github-readme-stats"><img alt="Serbinskis Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serbinskis&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 
