@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Adrian</h1>
 <h3 align="center">A humble man passionate about learning and building software.</h3>
+<p align="center"><a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/serbinskis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a></p>
 
 - 🌍 Based in Latvia  
 - 🧠 Currently diving into **Java**, **JavaScript**, and **TypeScript**  
 - 💡 Experimenting with systems-level programming in **Assembly**, **Go**, **Pascal**, and scripting  
-
-<a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/serbinskis?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
