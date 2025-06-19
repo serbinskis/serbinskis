@@ -1,6 +1,5 @@
-# Hi 👋 I'm Adrian
-
-**A humble man passionate about learning and building software.**
+<h1 align="center">Hi 👋 I'm Adrian</h1>
+<h3 align="center">A humble man passionate about learning and building software.</h3>
 
 - 🌍 Based in Latvia  
 - 🧠 Currently diving into **Java**, **JavaScript**, and **TypeScript**  
