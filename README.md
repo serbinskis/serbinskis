@@ -41,9 +41,11 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 ## 🌐 Connect with Me
 
 <p align="left"> 
-  <a href="https://discord.com/users/346547743365398528" target="_blank" rel="noreferrer">Discord</a>  
+  <a href="https://discord.com/users/346547743365398528" target="_blank" rel="noreferrer">💬 Discord</a>  
   &nbsp;|&nbsp;  
-  <a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer">GitHub</a>
+  <a href="https://www.github.com/serbinskis" target="_blank" rel="noreferrer">🐙 GitHub</a>
+  &nbsp;|&nbsp;  
+  <a href="mailto:serbinskis@gmail.com">📧 Email</a>
 </p>
 
 ---
