@@ -64,7 +64,7 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 | Project                                                                             | Description                                                                                 |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | [UNO Game](https://github.com/serbinskis/uno-game)                                  | A browser-based UNO game in TypeScript.                                                     |
-| File Hosting                                                                        | Personal infinite file hosting service running on a private server.                         |
+| [File Hosting](https://serbinskis.github.io/file-hosting/)                          | Personal infinite file hosting service running on a private server.                         |
 | [Delphi](https://github.com/serbinskis/Delphi)                                      | A collection of Pascal/Delphi tools: MSIControl, MiniRecycleBin, Soundboard, etc.           |
 | [MSIControl](https://github.com/serbinskis/Delphi/tree/master/MSIControl)           | Delphi-based utility to allow you to control fans of your MSI computer and other stuff.     |
 | [MiniRecycleBin](https://github.com/serbinskis/Delphi/tree/master/MiniRecycleBin)   | A Mini Recycle Bin implementation using Delphi.                                             |
