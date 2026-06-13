@@ -63,16 +63,17 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 
 | Project                                                                             | Description                                                                                 |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| [UNO Game](https://github.com/serbinskis/uno-game)                                  | A browser-based UNO game in TypeScript.                                                     |
+| [AI Glossary Generator](https://github.com/serbinskis/nodejs-ai-glossary)           | LLM-powered tool to automate the extraction of terms and definitions for study glossaries.  |
+| [Text Playground](https://serbinskis.github.io/text-playground/)                    | An interactive tool for testing and refining custom text-segmentation logic in JavaScript.  |
+| [UNO Game](https://serbinskis.github.io/uno-game/)                                  | A browser-based UNO game in JavaScript.                                                     |
 | [File Hosting](https://serbinskis.github.io/file-hosting/)                          | Personal infinite file hosting service running on a private server.                         |
-| [Delphi](https://github.com/serbinskis/Delphi)                                      | A collection of Pascal/Delphi tools: MSIControl, MiniRecycleBin, Soundboard, etc.           |
 | [MSIControl](https://github.com/serbinskis/Delphi/tree/master/MSIControl)           | Delphi-based utility to allow you to control fans of your MSI computer and other stuff.     |
 | [MiniRecycleBin](https://github.com/serbinskis/Delphi/tree/master/MiniRecycleBin)   | A Mini Recycle Bin implementation using Delphi.                                             |
+| [Delphi](https://github.com/serbinskis/Delphi)                                      | A collection of Pascal/Delphi tools: MSIControl, MiniRecycleBin, Soundboard, etc.           |
+| [nzip Java](https://github.com/serbinskis/nzip-java)                                | Java-based file compression utility that supports both GUI and command-line interfaces.     |
 | [Minecraft Plugins](https://github.com/serbinskis/minecraft-plugins)                | Custom Minecraft plugins written in Java to add fun features to the game.                   |
 | [float24 cpp](https://github.com/serbinskis/float24-cpp)                            | C++ implementation of 24-bit float encoding/decoding.                                       |
-| [Beans Game](https://github.com/serbinskis/beans-game-cpp)                          | A simple C++ game prototype                                                                 |
-| [nzip Java](https://github.com/serbinskis/nzip-java)                                | Java-based file compression utility that supports both GUI and command-line interfaces.     |
-| [Bad Apple Golang](https://github.com/serbinskis/bad-apple-golang)                  | Terminal-based "Bad Apple" animation in Go (~2 GB RAM usage).                               |
+| [Bad Apple MBR](https://github.com/serbinskis/bad-apple-golang)                     | A project playing Bad Apple video and audio directly from the Master Boot Record.           |
 | [Assembly](https://github.com/serbinskis/assembly)                                  | Low-level experiments in Assembly - playing with hardware-level programming.                |
 
 ---
