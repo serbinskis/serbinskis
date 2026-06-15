@@ -64,7 +64,8 @@ Feel free to explore tools, downloads, or just poke around the random fun I host
 | Project                                                                             | Description                                                                                 |
 |-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
 | [AI Glossary Generator](https://github.com/serbinskis/nodejs-ai-glossary)           | LLM-powered tool to automate the extraction of terms and definitions for study glossaries.  |
-| [Video OCR](https://serbinskis.github.io/video-ocr/)                                | Extract text from videos with interactive bounding boxes and multi-language support.        |
+| [Video OCR](https://serbinskis.github.io/video-ocr/)                                | Web-based tool to extract text from videos with bounding boxes and multi-language support.  |
+| [Audio Transcriber ](https://serbinskis.github.io/transcriber/)                     | Web-based speech-to-text with interactive timestamps and multi-language support.            |
 | [Text Playground](https://serbinskis.github.io/text-playground/)                    | An interactive tool for testing and refining custom text-segmentation logic in JavaScript.  |
 | [UNO Game](https://serbinskis.github.io/uno-game/)                                  | A browser-based UNO game in JavaScript.                                                     |
 | [File Hosting](https://serbinskis.github.io/file-hosting/)                          | Personal infinite file hosting service running on a private server.                         |
